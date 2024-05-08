@@ -1,6 +1,6 @@
 # Hi 👋, I'm Queen Anthony
 
-I'm a tech enthusiast with so much interest in mobile app development, I love writing and speaking about tech awesomeness, I might as well become a tech evangelist someday. I make wonderful English voiceovers. 
+I'm a flutter developer, I love writing and speaking about tech awesomeness, I might as well become a tech evangelist someday. I make wonderful English voiceovers. 
 
 ## About Me
 
@@ -10,7 +10,7 @@ I'm a tech enthusiast with so much interest in mobile app development, I love wr
 
 ## Current Focus
 
-🔭 I’m currently learning flutter for mobile app development
+🔭 I’m currently building my flutter development career and working on real life projects.
 
 🌱 I’m currently sharpening my technical writings skills and available for gigs.
 
@@ -28,11 +28,13 @@ I'm a tech enthusiast with so much interest in mobile app development, I love wr
 
 ⚡ I love making voiceovers
 
+⚡ I love beautiful UIs
+
 ⚡ I am a food adventurer 
 
  ⚡I love nature
  
- ⚡I enjoy listening to good songs
+ ⚡I enjoy good music
  
 
 ## Let's Connect
